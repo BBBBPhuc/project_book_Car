@@ -24,7 +24,7 @@
                         </div>
 
                         <!-- Footer Column -->
-                        <div class="footer-column col-lg-5 col-md-6 col-sm-12">
+                        {{-- <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                             <div class="footer-widget links-widget">
                                 <h5>Find It Fast</h5>
                                 <ul class="page-list">
@@ -35,7 +35,7 @@
                                     <li><a href="/client_assets/#">TV & Audio</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
 
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                     <div class="row clearfix">
 
                         <!-- Footer Column -->
-                        <div class="footer-column col-lg-7 col-md-6 col-sm-12">
+                        {{-- <div class="footer-column col-lg-7 col-md-6 col-sm-12">
                             <div class="footer-widget links-widget">
                                 <h5>Quick Links</h5>
                                 <ul class="page-list">
@@ -56,10 +56,10 @@
                                     <li><a href="/client_assets/#">App Download</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
 
                         <!-- Footer Column -->
-                        <div class="footer-column col-lg-5 col-md-6 col-sm-12">
+                        {{-- <div class="footer-column col-lg-5 col-md-6 col-sm-12">
                             <div class="footer-widget instagram-widget">
                                 <h5>Service us</h5>
                                 <ul class="page-list-two">
@@ -70,7 +70,7 @@
                                     <li><a href="/client_assets/#">Help</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
 
                     </div>
                 </div>
@@ -83,7 +83,7 @@
             <div class="d-flex justify-content-between align-items-center flex-wrap">
                 <div class="copyright"><span>&copy; 2024</span> Powered by Theme. All Rights Reserved.</div>
                 <div class="email-box">
-                    <a href="/client_assets/mailto:DumTheme@gmail.com"><span class="icon flaticon-mail"></span>phimmoizzzzz@gmail.com</a>
+                    <a href="nguyenthaibaophuc06102003@gmail.com"><span class="icon flaticon-mail"></span>nguyenthaibaophuc06102003@gmail.com</a>
                 </div>
                 <div class="cards"><img src="/client_assets/images/icons/cards.png" alt="" /></div>
             </div>
